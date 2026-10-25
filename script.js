@@ -2,7 +2,7 @@
 CUENTA REGRESIVA
 ======================================================*/
 
-const fechaEvento = new Date("December 19, 2027 12:00:00").getTime();
+const fechaEvento = new Date("December 26, 2026 15:00:00").getTime();
 
 function actualizarContador(){
 
